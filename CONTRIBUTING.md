@@ -1,0 +1,1 @@
+ The CONTRIBUTING.md file provides clear guidelines for contributing to the project. It explains how users can report issues, submit pull requests, and follow best development practices. This helps maintain project quality and smooth collaboration.
