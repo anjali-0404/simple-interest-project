@@ -1,0 +1,1 @@
+The repository includes a simple-interest.sh shell script that calculates simple interest based on user input. The script follows the provided project specification and executes correctly from the command line. It demonstrates the practical implementation of the project objective.
